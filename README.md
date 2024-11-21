@@ -6,5 +6,5 @@ Features
 
 
 Prerequisites
-- Go Installed: Ensure that Go is installed on your system. You can download it from the official Go website.
+- Go Installed: Ensure that Go is installed on your system. You can download it from the [official Go website](https://go.dev/).
 - Go Workspace Setup: Set up your Go workspace with environment variables like $GOPATH
